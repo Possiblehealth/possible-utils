@@ -1,0 +1,6 @@
+bahmni_repo_url: http://bahmni-repo.twhosted.com/rpm/bahmni/
+implementation_name: possible
+timezone: Asia/Kolkata
+nagios_contact_email: someone@gmail.com
+ssmtp_auth_user: someone@gmail.com
+ssmtp_auth_pass: somepass

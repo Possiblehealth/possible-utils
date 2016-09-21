@@ -1,0 +1,4 @@
+bahmni_repo_url: http://bahmni-repo.twhosted.com/rpm/bahmni/
+implementation_name: possible
+timezone: Asia/Kolkata
+omods: ["https://github.com/Possiblehealth/program-auto-enrollment/releases/download/1.0.1/programautoenrolment-1.0-SNAPSHOT.omod"]
