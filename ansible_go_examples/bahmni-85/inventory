@@ -29,6 +29,11 @@ localhost
 [bahmni-reports]
 localhost
 
+[bahmni-reports-db]
+localhost
+
+[bahmni-reports-db-slave]
+
 [pacs-integration]
 localhost
 
@@ -61,6 +66,8 @@ bahmni-erp
 bahmni-erp-db
 bahmni-erp-db-slave
 bahmni-reports
+bahmni-reports-db
+bahmni-reports-db-slave
 pacs-integration
 pacs-integration-db
 pacs-integration-db-slave
